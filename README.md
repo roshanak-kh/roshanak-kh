@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/roshanak-kh/vulnerability-management-program/)**
--
+
 
 ## 🚨 Threat Hunting and Security Operations
 
