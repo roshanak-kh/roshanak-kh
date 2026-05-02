@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/roshanak-kh/threat-hunting-scenario-tor)**
-- **[Threat Hunt — PHTG: Signals Before the Noise](https://github.com/roshanak-kh/threat-hunt-PHTG/blob/main/Threat-Hunt-Report.pdf)**
+- **[Threat Hunt — PHTG: Signals Before the Noise](https://github.com/roshanak-kh/threat-hunt-PHTG/blob/main/Threat%20Hunt%20Report.pdf)**
 
 <hr/>
 
