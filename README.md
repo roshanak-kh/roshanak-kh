@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/roshanak-kh/threat-hunting-scenario-tor)**
 - **[Threat Hunt — PHTG: Signals Before the Noise](https://github.com/roshanak-kh/threat-hunt-PHTG/blob/main/Threat%20Hunt%20Report.pdf)**
 -  **[Threat Hunt — OPERATION SILENT CORRIDOR](https://github.com/roshanak-kh/Threat-Hunt-Silent-Corridor/blob/main/SilentCorridor_AllFlags_RoshanakKhodaparast.final.pdf)**
-
+- **[Threat Hunt — The Broker](https://github.com/roshanak-kh/threat-hunt-PHTG/blob/main/Threat%20Hunt%20Report.pdf)**
 <hr/>
 
 ## 🤳 Connect With Me
