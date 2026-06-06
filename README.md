@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 -  **[Threat Hunt — OPERATION SILENT CORRIDOR](https://github.com/roshanak-kh/Threat-Hunt-Silent-Corridor/blob/main/SilentCorridor_AllFlags_RoshanakKhodaparast.final.pdf)**
 - **[Threat Hunt — The Broker](https://github.com/roshanak-kh/Threat-Hunt-The-Broker/blob/main/PHTG_TheBroker_ThreatHunt_Report%20(1).pdf)**
 - **[Threat Hunt — Ghost in the Stack](https://github.com/roshanak-kh/Ghost-in-the-Stack/blob/main/Ghost%20in%20the%20Stack.pdf)**
-- **[Threat Hunt —  SIGNALS AFTER THE NOISE 2](https://github.com/roshanak-kh/Ghost-in-the-Stack/blob/main/Ghost%20in%20the%20Stack.pdf)**
+- **[Threat Hunt —  SIGNALS AFTER THE NOISE 2](https://github.com/roshanak-kh/-SIGNALS-AFTER-THE-NOISE-2/blob/main/Signals%20After%20the%20Noise.pdf)**
   
 <hr/>
 
