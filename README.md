@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔐 Entra ID & Identity Security
 
-- **[Entra ID Project](https://github.com/roshanak-kh/entra-id-project)**
+- **[Entra ID Project](https://github.com/roshanak-kh/entra-id-lab)**
 
 
 ## ⚠️ Vulnerability Management Projects
