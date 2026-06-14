@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔐 Entra ID & Identity Security
 
-- **[Entra ID Lab](https://github.com/roshanak-kh/entra-id-lab)**
+- **[Entra ID GPO ](https://github.com/roshanak-kh/Entra-ID-GPO/blob/main/GPO_Lab_Report_Roshanak_Khodaparast%20(1).pdf)**
 
 
 ## ⚠️ Vulnerability Management Projects
