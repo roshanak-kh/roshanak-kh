@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔵 Incident Response & Intelligence Reports
 
--** [Incident Report — RDP Brute Force Campaign (IR-2026-001)](https://github.com/roshanak-kh/Incident-Report-RDP-Brute-Force-Azure)
+-** [Incident Report — RDP Brute Force Campaign (IR-2026-001)](https://github.com/roshanak-kh/Incident-Report-RDP-Brute-Force-Azure)**
 
 ## 🔐 Entra ID & Identity Security
 
