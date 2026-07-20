@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunt —  Northpeak Descent](https://github.com/roshanak-kh/Northpeak-Descent/blob/main/Northpeak_Descent_Threat_Hunt_Report%20(1).pdf)**
+- **[Threat Hunt —  Operation Northpeak Descent](https://github.com/roshanak-kh/Northpeak-Descent/blob/main/Northpeak_Descent_Threat_Hunt_Report%20(1).pdf)**
 - **[Threat Hunt —  Rocky Clinic](https://github.com/roshanak-kh/Rocky-Clinic/blob/main/Hunt07_Rocky_Clinic_Report%20(1).pdf)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/roshanak-kh/threat-hunting-scenario-tor)**
 - **[Threat Hunt — PHTG: Signals Before the Noise](https://github.com/roshanak-kh/threat-hunt-PHTG/blob/main/Threat%20Hunt%20Report.pdf)**
